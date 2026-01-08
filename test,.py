@@ -1,7 +1,7 @@
 print("Hellow world")
 print("Hellow")
 print("Abhishek")
-def mutl(a,b):
-    return a*b
+def add(a,b):
+    return a+b
 
-mutl(2,3)
+add(1,2)
